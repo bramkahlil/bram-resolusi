@@ -1,5 +1,5 @@
 Bram Resolusi
 -Konsisten mempelajari pemrograman JavaScript
--Konsisten mempelajari pemrograman PHP
+-Konsisten mempelajari pemrograman Laravel
 -Konsisten mempelajari c++
 -Membuat project website sederhana
